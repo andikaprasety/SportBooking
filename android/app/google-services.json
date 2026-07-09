@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "451521418835",
+    "project_id": "sportbooking-26310",
+    "storage_bucket": "sportbooking-26310.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451521418835:android:4fff7282f764aa9d6bd8a6",
+        "android_client_info": {
+          "package_name": "com.example.sport_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451521418835-2q500vhi9o4t5ke52cr8mph2b36g7a83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKKB-fvshe3F5CsX8ZfwBzkyPyOQy7Bqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451521418835-2q500vhi9o4t5ke52cr8mph2b36g7a83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451521418835-na7pvhpac5vso3mgmek487g98mtptf3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportBooking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451521418835:android:95a6041c43d5441c6bd8a6",
+        "android_client_info": {
+          "package_name": "com.group.bookinglapangan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451521418835-31glk6tnkg2ad1d38ccavq6cjio4c8ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.group.bookinglapangan",
+            "certificate_hash": "67160774775d8d23c564dad1be46cf1b85971e0a"
+          }
+        },
+        {
+          "client_id": "451521418835-2q500vhi9o4t5ke52cr8mph2b36g7a83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKKB-fvshe3F5CsX8ZfwBzkyPyOQy7Bqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451521418835-2q500vhi9o4t5ke52cr8mph2b36g7a83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451521418835-na7pvhpac5vso3mgmek487g98mtptf3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportBooking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451521418835:android:e228821bb4bb0c6a6bd8a6",
+        "android_client_info": {
+          "package_name": "com.group.sport_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451521418835-bsmd6n8reeqgkgu2dhg6jo2k3uu5ck7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.group.sport_booking",
+            "certificate_hash": "67160774775d8d23c564dad1be46cf1b85971e0a"
+          }
+        },
+        {
+          "client_id": "451521418835-2q500vhi9o4t5ke52cr8mph2b36g7a83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKKB-fvshe3F5CsX8ZfwBzkyPyOQy7Bqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451521418835-2q500vhi9o4t5ke52cr8mph2b36g7a83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451521418835-na7pvhpac5vso3mgmek487g98mtptf3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportBooking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
